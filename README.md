@@ -1,4 +1,4 @@
-# Telegram_Stock_Bot-Vidhi_Bhatt
+# Telegram_Stock_Bot-Bhagya_patel
 A Telegram integrated stock bot using API's.
 <br><br>
 <h2><b>What exactly is the Bot about?🤔 </b></h2>
